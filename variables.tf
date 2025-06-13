@@ -23,5 +23,5 @@ variable "versioning" {
 
 variable "environment" {
   type    = string
-  default = "dev"
+  default = "production"
 }
